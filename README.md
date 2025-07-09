@@ -8,3 +8,4 @@ changes 8th july
 
 new changes
 at 2 53 pm
+for pull command
